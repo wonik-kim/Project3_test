@@ -10,7 +10,7 @@
       <repository>
         <id>Spring Plugins</id>
         <url>https://repo.spring.io/plugins-release/</url>
-      </repository>    
+      </repository>   
     </repositories>
   
   <!-- 라이브러리 -->
