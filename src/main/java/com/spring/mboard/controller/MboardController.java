@@ -9,8 +9,11 @@ public class MboardController {
 	@RequestMapping("/")
 	public String home()
 	{
+		System.out.println("두번쨰 커밋이여!");
 		
 		return "home";
 	}
+	
+	
 	
 }
